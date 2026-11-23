@@ -13,7 +13,4 @@ import java.util.ArrayList;
 // Commit message:  step 3: Menu
 
 public class Menu {
-
-    // YOUR CODE
-
 }
